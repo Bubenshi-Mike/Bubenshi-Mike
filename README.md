@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bubenshi-Mike
-- 👀 I’m interested in Software Programming, Web Development, UI/UX designing, Artificial Intelligence and Networking.
-- 🌱 I’m currently advancing my skill sets in Java, Python, Flutter, Django, ReactJS and React-Native, ExpressJS, NextJS and Laravel.
-- 💞️ I’m looking to collaborate on an Ecommerce Website with Django that I'm currently developing.
+- 👀 An enthusiast in Software Programming, Web Development, UI/UX designing, Artificial Intelligence and Networking.
+- 🌱 Currently advancing my skill sets in Java, Python, Flutter, Django, ReactJS and React-Native, ExpressJS, NextJS and Laravel.
+- 💞️ Amd looking forward to collaborate with anyone to development quality software products to cub both environmental and society problems.
 - 📫 You can reach me via email on mikebubenshi@gmail.com or mobile on +260971646698
