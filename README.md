@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bubenshi-Mike
-- 👀 Proficient in Software and Web Development, Cybersecurity, Artificial Intelligence and Networking.
-- 🌱 Currently advancing my skill sets in Java, Python, PHP and JavaScript.
-- 💞️ And looking forward to collaborate with anyone to development quality software products to cub both environmental and society problems.
-- 📫 You can reach me via email on mikebubenshi@gmail.com or mobile on +260971646698
+- 👀 A Software Engineer, Cybersecurity Specialist, and enthusiastically inclined to learn more about Artificial Intelligence and develop systems dependent on Machine and Deep Learning Models.
+- 🌱 Currently advancing my skill sets in C#, ASP.NET, Java, Python and JavaScript.
+- 💞️ I'm looking forward to collaborating with you to develop quality software products to cub both environmental and societal problems.
+- 📫 You can reach me via email at mikebubenshi@gmail.com or mobile on +260971646698
